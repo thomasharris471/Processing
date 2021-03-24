@@ -9,7 +9,7 @@ int numRotations;
 int numScales;
 
 void setup() {
-  size(1080,900);
+  size(1200,1200);
   v = new Vector(x0, y0);
   baseVector = new Vector(x0, y0);
   rotateTime = 0;

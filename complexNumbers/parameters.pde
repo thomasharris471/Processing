@@ -1,10 +1,40 @@
 //starting number x0 + i y0
-double x0 = 1;
+double x0 = 2;
 double y0 = 0;
 
 //number you multiply by (re^{i \theta})*(x0 + i y0)
 double r = 3;
-double theta = Math.PI/2;
+double theta = Math.PI/4;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 boolean displayY = false;
 boolean displayNumbers = false;
@@ -15,8 +45,8 @@ boolean velocityvector = false;
 boolean translatedvelocityvector = false;
 
 
-double[] xAxis = {-5, 5};
-double[] yAxis = {-5, 5};
+double[] xAxis = {-7, 7};
+double[] yAxis = {-7, 7};
 
 
 void commands() {
